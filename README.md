@@ -1,5 +1,5 @@
 # yubiLock
-A Windows Program thats locks your Computer as soon as you Unplug your YubiKey!
+A Windows program that locks your PC after unplugging your YubiKey.
 
 # Where are all the files?
 This project is currently NOT open source due to private issues and copying and is not currently planned to go open source.

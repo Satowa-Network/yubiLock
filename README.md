@@ -1,3 +1,6 @@
+>[!CAUTION]
+> :warning: **THIS PROJECT WAS TAKEN OVER BY AKAMI SOLUTIONS**: [Akami Solutions - YubiLock](https://github.com/akami-soutions/YubiLock)!
+
 # yubiLock
 A Windows program that locks your PC after unplugging your YubiKey.
 
